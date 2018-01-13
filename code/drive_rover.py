@@ -20,7 +20,9 @@ import time
 # Import functions for perception and decision making
 from perception import perception_step
 from decision import decision_step
+
 from supporting_functions import update_rover, create_output_images
+
 # Initialize socketio server and Flask application 
 # (learn more at: https://python-socketio.readthedocs.io/en/latest/)
 sio = socketio.Server()
