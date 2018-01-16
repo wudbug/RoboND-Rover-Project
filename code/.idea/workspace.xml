@@ -2,999 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f2b9bf3-21ef-48b1-8f1b-ee05f62415d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../calibration_images/example_grid1.jpg" afterPath="$PROJECT_DIR$/../calibration_images/example_grid1.jpg" />
-      <change beforePath="$PROJECT_DIR$/../calibration_images/example_grid2.jpg" afterPath="$PROJECT_DIR$/../calibration_images/example_grid2.jpg" />
-      <change beforePath="$PROJECT_DIR$/../calibration_images/example_rock1.jpg" afterPath="$PROJECT_DIR$/../calibration_images/example_rock1.jpg" />
-      <change beforePath="$PROJECT_DIR$/../calibration_images/example_rock2.jpg" afterPath="$PROJECT_DIR$/../calibration_images/example_rock2.jpg" />
-      <change beforePath="$PROJECT_DIR$/../calibration_images/map_bw.png" afterPath="$PROJECT_DIR$/../calibration_images/map_bw.png" />
-      <change beforePath="$PROJECT_DIR$/Rover_Project_Test_Notebook.ipynb" afterPath="$PROJECT_DIR$/Rover_Project_Test_Notebook.ipynb" />
-      <change beforePath="$PROJECT_DIR$/drive_rover.py" afterPath="$PROJECT_DIR$/drive_rover.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/perception.py" afterPath="$PROJECT_DIR$/perception.py" />
-      <change beforePath="$PROJECT_DIR$/../misc/rover_image.jpg" afterPath="$PROJECT_DIR$/../misc/rover_image.jpg" />
-      <change beforePath="$PROJECT_DIR$/../output/test_mapping.mp4" afterPath="$PROJECT_DIR$/../output/test_mapping.mp4" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_421.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_421.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_455.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_455.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_499.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_499.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_554.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_554.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_611.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_611.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_662.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_662.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_715.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_715.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_766.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_766.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_819.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_819.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_859.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_859.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_923.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_923.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_970.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_21_970.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_022.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_022.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_070.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_070.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_124.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_124.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_170.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_170.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_216.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_216.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_267.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_267.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_311.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_311.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_359.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_359.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_406.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_406.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_455.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_455.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_503.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_503.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_551.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_551.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_595.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_595.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_643.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_643.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_691.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_691.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_735.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_735.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_778.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_778.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_827.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_827.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_875.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_875.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_923.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_923.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_970.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_22_970.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_015.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_015.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_055.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_055.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_102.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_102.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_146.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_146.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_195.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_195.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_243.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_243.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_292.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_292.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_354.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_354.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_411.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_411.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_455.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_455.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_513.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_513.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_555.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_555.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_599.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_599.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_646.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_646.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_695.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_695.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_743.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_743.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_791.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_791.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_838.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_838.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_886.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_886.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_935.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_935.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_983.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_23_983.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_031.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_031.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_087.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_087.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_131.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_131.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_187.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_187.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_231.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_231.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_287.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_287.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_334.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_334.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_379.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_379.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_426.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_426.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_475.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_475.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_519.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_519.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_567.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_567.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_611.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_611.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_666.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_666.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_716.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_716.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_766.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_766.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_811.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_811.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_858.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_858.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_907.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_907.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_958.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_24_958.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_006.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_006.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_051.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_051.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_099.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_099.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_146.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_146.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_195.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_195.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_246.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_246.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_296.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_296.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_342.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_342.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_391.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_391.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_438.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_438.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_487.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_487.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_534.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_534.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_579.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_579.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_626.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_626.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_675.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_675.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_723.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_723.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_771.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_771.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_814.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_814.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_863.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_863.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_911.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_911.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_959.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_25_959.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_006.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_006.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_055.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_055.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_103.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_103.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_151.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_151.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_198.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_198.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_246.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_246.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_294.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_294.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_343.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_343.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_391.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_391.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_438.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_438.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_487.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_487.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_535.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_535.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_583.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_583.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_631.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_631.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_683.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_683.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_731.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_731.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_779.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_779.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_826.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_826.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_875.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_875.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_923.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_923.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_979.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_26_979.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_026.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_026.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_075.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_075.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_122.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_122.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_171.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_171.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_219.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_219.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_266.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_266.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_311.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_311.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_359.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_359.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_406.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_406.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_455.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_455.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_498.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_498.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_547.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_547.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_594.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_594.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_642.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_642.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_691.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_691.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_739.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_739.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_786.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_786.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_838.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_838.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_887.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_887.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_935.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_935.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_982.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_27_982.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_026.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_026.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_075.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_075.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_119.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_119.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_166.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_166.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_216.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_216.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_263.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_263.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_311.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_311.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_358.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_358.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_407.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_407.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_456.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_456.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_499.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_499.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_547.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_547.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_595.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_595.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_643.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_643.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_691.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_691.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_735.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_735.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_778.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_778.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_827.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_827.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_871.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_871.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_915.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_915.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_963.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_28_963.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_011.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_011.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_059.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_059.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_102.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_102.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_151.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_151.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_194.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_194.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_243.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_243.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_287.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_287.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_332.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_332.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_375.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_375.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_421.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_421.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_467.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_467.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_511.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_511.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_555.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_555.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_599.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_599.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_650.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_650.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_699.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_699.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_739.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_739.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_782.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_782.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_826.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_826.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_875.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_875.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_919.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_919.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_967.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_29_967.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_014.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_014.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_059.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_059.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_106.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_106.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_151.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_151.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_199.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_199.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_254.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_254.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_299.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_299.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_344.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_344.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_391.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_391.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_436.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_436.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_478.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_478.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_527.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_527.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_575.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_575.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_619.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_619.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_662.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_662.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_706.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_706.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_751.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_751.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_802.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_802.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_851.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_851.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_891.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_891.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_931.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_931.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_975.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_30_975.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_022.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_022.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_066.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_066.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_120.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_120.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_174.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_174.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_215.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_215.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_271.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_271.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_327.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_327.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_371.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_371.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_422.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_422.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_464.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_464.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_515.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_515.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_571.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_571.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_619.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_619.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_671.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_671.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_721.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_721.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_766.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_766.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_806.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_806.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_859.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_859.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_899.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_899.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_944.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_944.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_990.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_31_990.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_031.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_031.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_075.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_075.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_126.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_126.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_175.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_175.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_231.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_231.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_272.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_272.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_327.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_327.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_378.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_378.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_439.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_439.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_479.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_479.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_531.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_531.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_582.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_582.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_623.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_623.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_670.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_670.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_719.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_719.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_771.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_771.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_827.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_827.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_871.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_871.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_911.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_911.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_955.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_955.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_996.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_32_996.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_055.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_055.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_099.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_099.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_143.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_143.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_186.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_186.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_230.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_230.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_271.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_271.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_326.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_326.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_372.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_372.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_427.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_427.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_471.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_471.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_516.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_516.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_558.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_558.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_600.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_600.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_651.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_651.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_702.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_702.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_743.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_743.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_791.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_791.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_840.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_840.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_899.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_899.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_946.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_946.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_986.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_33_986.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_035.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_035.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_086.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_086.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_131.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_131.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_175.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_175.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_226.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_226.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_271.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_271.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_327.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_327.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_379.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_379.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_419.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_419.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_462.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_462.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_510.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_510.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_555.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_555.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_607.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_607.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_659.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_659.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_707.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_707.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_755.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_755.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_800.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_800.jpg" />
-      <change beforePath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_842.jpg" afterPath="$PROJECT_DIR$/../test_dataset/IMG/robocam_2017_05_02_11_16_34_842.jpg" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_323.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_54_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_55_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_852.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_56_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_57_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_185.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_58_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_03_59_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_00_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_01_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_02_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_03_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_04_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_318.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_518.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_05_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_06_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_07_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_08_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_718.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_09_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_10_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_11_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_12_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_13_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_118.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_14_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_784.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_15_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_584.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_651.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_16_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_17_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_384.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_451.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_851.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_918.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_18_984.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_19_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_184.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_20_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_21_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_22_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_23_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_051.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_24_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_25_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_26_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_27_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_28_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_29_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_30_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_31_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_32_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_33_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_34_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_449.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_517.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_717.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_917.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_35_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_117.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_36_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_450.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_582.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_782.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_37_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_049.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_249.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_382.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_449.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_38_983.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_050.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_383.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_449.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_582.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_650.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_782.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_849.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_916.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_39_982.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_049.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_116.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_183.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_316.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_382.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_449.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_516.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_583.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_649.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/IMG/robocam_2018_01_04_19_04_40_850.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../training_data/robot_log.csv" afterPath="$PROJECT_DIR$/../training_data/robot_log.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1008,8 +17,8 @@
       <file leaf-file-name="perception.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/perception.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="131" column="5" lean-forward="true" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="136" column="63" lean-forward="true" selection-start-line="136" selection-start-column="63" selection-end-line="136" selection-end-column="63" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -1020,7 +29,7 @@
       <file leaf-file-name="supporting_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/supporting_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1515">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -1032,8 +41,8 @@
       <file leaf-file-name="drive_rover.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/drive_rover.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="73" column="21" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="21" />
+            <state relative-caret-position="111">
+              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
               <folding>
                 <element signature="e#27#42#0" expanded="true" />
               </folding>
@@ -1044,7 +53,7 @@
       <file leaf-file-name="decision.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/decision.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="315">
               <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
               <folding />
             </state>
@@ -1052,6 +61,12 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pitch</find>
+      <find>roll</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -1064,11 +79,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1666" />
-    <option name="height" value="1027" />
+    <option name="width" value="1920" />
+    <option name="height" value="1174" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1078,7 +92,31 @@
             <id />
           </State>
           <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
             <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>XML</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -1105,18 +143,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -1126,7 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1159,7 +193,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <method>
-        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Rover Sim" />
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Rover Simulator" />
       </method>
     </configuration>
   </component>
@@ -1180,19 +214,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21063718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3206673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31485355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1210,6 +244,44 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/perception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="131" column="5" lean-forward="true" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supporting_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_rover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="73" column="21" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="21" />
+          <folding>
+            <element signature="e#27#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/perception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1265,8 +337,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/supporting_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1515">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="136" column="63" lean-forward="true" selection-start-line="136" selection-start-column="63" selection-end-line="136" selection-end-column="63" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -1275,27 +357,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drive_rover.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="73" column="21" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="21" />
+        <state relative-caret-position="111">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
           <folding>
             <element signature="e#27#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/perception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="131" column="5" lean-forward="true" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/decision.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="315">
           <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
           <folding />
         </state>
