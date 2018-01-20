@@ -1,8 +1,6 @@
 ## Project: Search and Sample Return
-### Writeup Template: You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
 ---
-
 
 **The goals / steps of this project are the following:**  
 
@@ -38,12 +36,12 @@ You're reading it!
 
 ### Notebook Analysis
 #### 1. Run the functions provided in the notebook on test images (first with the test data provided, next on data you have recorded). Add/modify functions to allow for color selection of obstacles and rock samples.
-Here is an example of how to include an image in your writeup.
+
 
 ![alt text][image1]
 
 #### 1. Populate the `process_image()` function with the appropriate analysis steps to map pixels identifying navigable terrain, obstacles and rock samples into a worldmap.  Run `process_image()` on your test data using the `moviepy` functions provided to create video output of your result. 
-And another! 
+The video can be found in the output folder. "test_mapping.mp4"
 
 ![alt text][image2]
 ### Autonomous Navigation and Mapping
@@ -55,8 +53,19 @@ And another!
 
 **Note: running the simulator with different choices of resolution and graphics quality may produce different results, particularly on different machines!  Make a note of your simulator settings (resolution and graphics quality set on launch) and frames per second (FPS output to terminal by `drive_rover.py`) in your writeup when you submit the project so your reviewer can reproduce your results.**
 
+
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
 
+I modified the perception step to transform the perspective of the input image. I then ran this image through a set of colour thresholds to detect navigable terrain, obstacles and rock samples.
+Once I'd identified this data, I updated the vision map.
+The detected navigable terrain, obstacles and rocks are converted to rover centric coordinates and then into world space. I then check the pitch and roll angles of the rover. I do this to improve the fidelity of the final results. If the roll and pitch angles are within the range I update the world map with the navigable terrain, obstacles and rock data.
+To autonomously drive the rover the navigable pixel are converted to polar goordinates and provided to the rover state class.
+
+To improve this project I could alter the perspective transform function to account for the pitch and roll of the rover instead just bypassing when the angles are too high.
+
+I could also modify the steering angle to drive towards the detected rocks and use the distance to control the throttle. This would allow the rover to collect the rocks.
+
+Settings: 1280 x 800 Fantastic 20-35 fps
 
 
 ![alt text][image3]
