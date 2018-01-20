@@ -93,10 +93,7 @@ def perspect_transform(img, src, dst):
 
 # Apply the above functions in succession and update the Rover state accordingly
 def perception_step(Rover):
-    """
 
-    :type Rover: Rover
-    """
     # Perform perception steps to update Rover()
     # TODO: 
     # NOTE: camera image is coming to you in Rover.img
@@ -171,5 +168,6 @@ def perception_step(Rover):
 
     Rover.nav_dists = distance
     Rover.nav_angles = angles
+
 
     return Rover
